@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trial 2</string>
+    <string name="Hello_message">Bonjour tout le monde</string>
+    <string name="Hello_message">B</string>
+    <string name="Button_Message">je suis un bouton</string>
+</resources>
